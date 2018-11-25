@@ -2,6 +2,7 @@
 My DL project template
 
 
+The folder structure suggested by CS230 course:
 ```
 data/
     train/
