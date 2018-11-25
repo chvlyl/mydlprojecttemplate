@@ -2,7 +2,20 @@
 My DL project template
 
 
-
+```
+data/
+    train/
+    dev/
+    test/
+experiments/
+model/
+    *.py
+build_dataset.py
+train.py
+search_hyperparams.py
+synthesize_results.py
+evaluate.py
+```
 
 
 ## Reference
