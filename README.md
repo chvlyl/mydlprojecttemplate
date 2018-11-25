@@ -24,3 +24,4 @@ evaluate.py
 2. [CS230: Introduction to PyTorch Code Examples](https://cs230-stanford.github.io/pytorch-getting-started.html)
 3. [Github CS230: Introduction to PyTorch Code Examples](https://github.com/cs230-stanford/cs230-code-examples/tree/master/pytorch/vision)
 4. [PyTorch Project Template: Do it the smart way](https://www.linkedin.com/pulse/pytorch-project-template-do-smart-way-hager-rady/)
+5. [Github PyTorch Project Template](https://github.com/moemen95/Pytorch-Project-Template)
