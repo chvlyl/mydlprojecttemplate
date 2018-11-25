@@ -83,3 +83,4 @@ The following folder structure suggested by [Github PyTorch Project Template](ht
 3. [Github CS230: Introduction to PyTorch Code Examples](https://github.com/cs230-stanford/cs230-code-examples/tree/master/pytorch/vision)
 4. [PyTorch Project Template: Do it the smart way](https://www.linkedin.com/pulse/pytorch-project-template-do-smart-way-hager-rady/)
 5. [Github PyTorch Project Template](https://github.com/moemen95/Pytorch-Project-Template)
+6. [Deep Learning With PyTorch](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad)
