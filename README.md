@@ -18,6 +18,42 @@ synthesize_results.py
 evaluate.py
 ```
 
+The folder structure suggested by [PyTorch Template Project](https://github.com/victoresque/pytorch-template):
+```
+pytorch-template/
+│
+├── train.py - main script to start training
+├── test.py - evaluation of trained model
+├── config.json - config file
+│
+├── base/ - abstract base classes
+│   ├── base_data_loader.py - abstract base class for data loaders
+│   ├── base_model.py - abstract base class for models
+│   └── base_trainer.py - abstract base class for trainers
+│
+├── data_loader/ - anything about data loading goes here
+│   └── data_loaders.py
+│
+├── data/ - default directory for storing input data
+│
+├── model/ - models, losses, and metrics
+│   ├── loss.py
+│   ├── metric.py
+│   └── model.py
+│
+├── saved/ - default checkpoints folder
+│   └── runs/ - default logdir for tensorboardX
+│
+├── trainer/ - trainers
+│   └── trainer.py
+│
+└── utils/
+    ├── util.py
+    ├── logger.py - class for train logging
+    ├── visualization.py - class for tensorboardX visualization support
+    └── ...
+```
+
 The following folder structure suggested by [Github PyTorch Project Template](https://github.com/moemen95/Pytorch-Project-Template)
 ```
 ├── agents
