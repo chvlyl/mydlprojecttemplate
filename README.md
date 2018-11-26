@@ -158,3 +158,4 @@ The following folder structure suggested by [Cookiecutter Data Science](https://
 7. [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 8. [Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
 9. [How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
+10. [Cookiecutter Data Science — Organize your Projects — Atom and Jupyter](https://medium.com/@rrfd/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-2be7862f487e)
