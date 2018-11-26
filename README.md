@@ -112,6 +112,42 @@ The following folder structure suggested by [Github PyTorch Project Template](ht
 └── run.sh
 ```
 
+The following folder structure suggested by [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+
+```
+├── LICENSE                                                                                                                 
+├── Makefile                                                                                                                
+├── README.md                                                                                                               
+├── data                                                                                                                    
+│   ├── external                                                                                                            
+│   ├── interim                                                                                                             
+│   ├── processed                                                                                                           
+│   └── raw                                                                                                                 
+├── docs                                                                                                                    
+│   ├── Makefile                                                                                                            
+│   ├── commands.rst                                                                                                        
+│   ├── conf.py                                                                                                             
+│   ├── getting-started.rst                                                                                                 
+│   ├── index.rst                                                                                                           
+│   └── make.bat                                                                                                            
+├── models                                                                                                                  
+├── notebooks                                                                                                               
+├── references                                                                                                              
+├── reports                                                                                                                 
+│   └── figures                                                                                                             
+├── requirements.txt                                                                                                        
+├── src                                                                                                                     
+│   ├── __init__.py                                                                                                         
+│   ├── data                                                                                                                
+│   │   └── make_dataset.py                                                                                                 
+│   ├── features                                                                                                            
+│   │   └── build_features.py                                                                                               
+│   └── model                                                                                                               
+│       ├── predict_model.py                                                                                                
+│       └── train_model.py                                                                                                  
+└── tox.ini                  
+```
+
 ## Reference
 1. [CS230: Introducing the Project Code Examples](https://cs230-stanford.github.io/project-code-examples.html)
 2. [CS230: Introduction to PyTorch Code Examples](https://cs230-stanford.github.io/pytorch-getting-started.html)
