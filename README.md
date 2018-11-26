@@ -1,5 +1,4 @@
-# mydlprojecttemplate
-My DL project template
+# My DL project template
 
 
 The folder structure suggested by CS230 course:
