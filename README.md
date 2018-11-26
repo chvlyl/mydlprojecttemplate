@@ -156,3 +156,4 @@ The following folder structure suggested by [Cookiecutter Data Science](https://
 5. [Github PyTorch Project Template](https://github.com/moemen95/Pytorch-Project-Template)
 6. [Deep Learning With PyTorch](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad)
 7. [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+8. [Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
