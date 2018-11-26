@@ -119,3 +119,4 @@ The following folder structure suggested by [Github PyTorch Project Template](ht
 4. [PyTorch Project Template: Do it the smart way](https://www.linkedin.com/pulse/pytorch-project-template-do-smart-way-hager-rady/)
 5. [Github PyTorch Project Template](https://github.com/moemen95/Pytorch-Project-Template)
 6. [Deep Learning With PyTorch](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad)
+7. [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
